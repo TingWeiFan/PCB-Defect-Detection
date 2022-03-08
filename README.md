@@ -9,3 +9,6 @@ python aug_with_bbox.py
 ```
 
 ## 結果
+<img src="img/01_missing_hole_01.jpg" width="100%"/>
+<img src="img/01_open_circuit_02.jpg" width="100%"/>
+<img src="img/01_short_03.jpg" width="100%"/>
